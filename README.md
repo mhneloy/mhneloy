@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/c34pTps/mhneloy-banner.jpg"  />
+  <img height="200" src="https://github.com/md-neloy/md-neloy/blob/main/mhneloy-banner.jpg"  />
 </div>
 
 ###
